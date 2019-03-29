@@ -1,0 +1,5 @@
+ui.router 实现路由功能
+
+文档： https://ui-router.github.io/ng1/
+
+安装： npm install --save @uirouter/angularjs

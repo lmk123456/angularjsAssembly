@@ -1,0 +1,5 @@
+me-lazyload   实现图片懒加载
+
+文档： https://github.com/Wyntau/me-lazyload
+
+安装： 没有办法用npm或者yarn进行安装，唯一搜到的是用bower，所以，推荐直接把me-lazyload克隆下来

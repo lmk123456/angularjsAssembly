@@ -1,0 +1,5 @@
+ngAnimate 提供动画
+
+文档： https://docs.angularjs.org/api/ngAnimate
+
+安装： npm install --save angular-animate@X.Y.Z

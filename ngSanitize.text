@@ -1,0 +1,5 @@
+ngSanitize  模块提供了清理HTML的功能。(富文本编辑器下的HTML)；
+
+文档： https://docs.angularjs.org/api/ngSanitize
+
+安装： npm install --save angular-sanitize@X.Y.Z
